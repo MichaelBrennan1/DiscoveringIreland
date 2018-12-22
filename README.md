@@ -18,8 +18,8 @@ The final part of this app will prevent the user from getting lost by sharing th
 
 * **Author-name:** Michael Brennan
 * **Author-email:** michael.brennan1@ucdconnect.com
-* **Github-username:** [MichaelBrennan83](https://github.com/MichaelBrennan83)
-* **Copyright:** 2017 Michael Brennan
+* **Github-username:** [MichaelBrennan1](https://github.com/MichaelBrennan1)
+* **Copyright:** 2018 Michael Brennan
 * **Category:** Development
 
 ## License
