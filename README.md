@@ -17,7 +17,7 @@ The final part of this app will prevent the user from getting lost by sharing th
 ## Author
 
 * **Author-name:** Michael Brennan
-* **Author-email:** michaelbrennan1
+* **Author-email:** usermichaelbrennan@gmail.com
 * **Github-username:** [MichaelBrennan1](https://github.com/MichaelBrennan1)
 * **Copyright:** 2018 Michael Brennan
 * **Category:** Development
